@@ -1,0 +1,5 @@
+Hello World.
+This is the first line.
+Line and line should be treated as two separate words!
+Line should have a count of two, line should have a count of three.
+In total there should be thirtyeight words.
