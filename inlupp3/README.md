@@ -4,13 +4,19 @@
 
 From the console:
 1. Navigate to the root folder through the console. The root folder should be the same folder where the Makefile is located.
-2. Type the command: make all  (this will compile the program)
+2. Type the command: make compile  (this will compile the program)
 3. Type the command: make run  (this will run the program)
 4. To remove temporary files, type: make clean
 
 
 From IDE:
 1. The program should be run from the file 'Calculator' located in:  ../src/org/ioopm/calculator/
+
+
+Run tests:
+1. Navigate to the root folder through the console. The root folder should be the same folder where the Makefile is located.
+2. Type the command: make compile_test
+3. Type the command: make run_test
 
 
 
